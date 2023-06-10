@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../../Users/User/Desktop/03_Vue_Admin_Dashboard"
+		}
+	],
+    "settings": {
+        "git.ignoreLimitWarning": true
+    }
+}
